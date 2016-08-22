@@ -1,0 +1,26 @@
+body
+  background-color: #ebeeda
+
+header
+  height: 450px
+  background-image: url(../img/background.png)
+  background-size:  cover
+  padding-top: 75px
+
+
+  .logo
+    margin: 0 auto
+    text-align: center
+    width: 300px
+    height: 300px
+    background-color: #407c5d
+    border-radius: 50%
+    +transition()
+
+  .logo:hover
+    +transform(scale(1.2))
+
+    .tag
+      padding-right: 10px
+      width: inherit
+      height: inherit
