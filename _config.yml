@@ -15,7 +15,7 @@ sass:
   sass_dir: assets/css
   style: :nested
 
-url: http://www.co0lster.github.com/
+url: https://www.co0lster.github.com/
 
 gems:
   - jemoji
