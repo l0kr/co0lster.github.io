@@ -1,14 +1,10 @@
 
 title: Co0lster
-description: Web // Algorithms // Technology
 
-
+baseurl: ""
 
 markdown: kramdown
-permalink: pretty
-
-port: 8000
-
+permalink: /:title/
 
 
 sass:
