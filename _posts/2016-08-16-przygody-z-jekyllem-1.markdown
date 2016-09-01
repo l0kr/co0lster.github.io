@@ -8,7 +8,7 @@ Trzeba coś napisać o tym jakie błędy robię, żebym pamiętał na przyszło�
 
 + Design wcale nie jest taki prosty jak się wydaje niby zaprojektowałem stronę, zakodowałem ją, ale okazuję się że ma dziury jeśli chodzi o używalność, do praktycznej jej trochę brakuję, a to główny cel. Na przykład robiłem przycisk CZYTAJ tylko po to, żeby stwierdzić, że go nie potrzebuję skoro tytuł jest linkiem do wpisu
 
-+ Pliki SVG mają swoje wymiary i same się nie skadrują tak aby przylegały, a szkoda :smile
++ Pliki SVG mają swoje wymiary i same się nie skadrują tak aby przylegały, a szkoda :smile:
 
 + Dobieranie odpowiednich rozmarów czcionek i grafik to piekło na ziemi.
 
