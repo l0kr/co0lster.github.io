@@ -33,7 +33,7 @@ categories: other
 <iframe width="498.991" height="280.994" src="https://www.youtube.com/embed/HL1UzIK-flA" frameborder="0" allowfullscreen></iframe>
 
 
-### ... Ale jak żebyś na miała też czasem wyje wyje bane, bo czasem trzeba
+### ... Ale żebyś miała też czasem wyje wyje bane, bo czasem trzeba.
 
 
 <iframe width="498.991" height="280.994" src="https://www.youtube.com/embed/XL8xaUYqhNA" frameborder="0" allowfullscreen></iframe>
