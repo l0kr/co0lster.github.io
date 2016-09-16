@@ -9,11 +9,12 @@ categories: other
 ### Żyj jak chcesz, spełniaj marzenia bo nie ma co czekać, aż same to zrobią. 
 <div class="media">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeMFqkcPYcg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Bądź szczęśliwa i uśmiechnięta... ale nigdy nie udawaj! 
-<div class="media">
+
 ![ ](http://66.media.tumblr.com/tumblr_m9vtezILce1r2iv0wo1_500.gif)
-</div>
+
 ### Dużo miłości! Bo tego nigdy za wiele! 
 <div class="media">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aJqP9kYIPk" frameborder="0" allowfullscreen></iframe>
