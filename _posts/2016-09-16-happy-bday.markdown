@@ -4,7 +4,7 @@ title:  "Życzonka! 🎉🎉🎉"
 date:   2016-09-16 22:05:14 +0200
 categories: other
 ---
-## Sylwuś, Sylwuś czego by Ci tu życzyć⁉
+## Sylwuś, Sylwuś czego by Ci tu życzyć ⁉
 
 ### Żyj jak chcesz, spełniaj marzenia bo nie ma co czekać, aż same to zrobią. 
 
