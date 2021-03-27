@@ -1,0 +1,3 @@
+[submodule "themes/hugo-grizzlytheme"]
+	path = themes/hugo-grizzlytheme
+	url = https://github.com/co0lster/hugo-grizzlytheme.git
